@@ -1,4 +1,4 @@
 >>> x=float(input("Enter any value"))
 >>> y=float(input("Enter any value"))
-Ans=x+y
+Ans=x-y
 print('Answer=',Ans)
