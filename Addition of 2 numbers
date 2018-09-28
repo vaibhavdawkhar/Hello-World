@@ -1,0 +1,4 @@
+x=int(input("enter no1:")
+y=int(input("enter n02:")
+z=x+y
+print("total=",z)
